@@ -7,5 +7,6 @@ Data types
 
 Almost everything could be represented as data, but there are several types of information, here comes the data types:
 
-- Numerical: continous/ discrete
-- Nominal and Nominal Ordered
+- **Numerical: continous/discrete**. Data that represents magnitudes, like money, population, etc. Continuos is like money that does not have clear limits between units, and Discrete is data that could be represented as single units, like people.
+
+- **Nominal and Nominal Ordered**. Data or information that could be divided into classes/bins.
