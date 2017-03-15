@@ -9,4 +9,4 @@ Almost everything could be represented as data, but there are several types of i
 
 - **Numerical: continous/discrete**. Data that represents magnitudes, like money, population, etc. Continuos is like money that does not have clear limits between units, and Discrete is data that could be represented as single units, like people.
 
-- **Nominal and Nominal Ordered**. Data or information that could be divided into classes/bins(Male/Female). Nominal ordered is data that aside of being partitioned, the classes in which the data is separated could span a range of values. For example: Number of sons(0-1, 2-5, 5+)
+- **Nominal and Nominal Ordered**. Data or information that could be divided into classes/bins(Male/Female). Nominal ordered is data that aside of being partitioned, the classes in which the data is separated could span a range of values. For example: Number of children(0-1, 2-5, 5+)
